@@ -7,7 +7,7 @@ public class Task1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        final int[] numbers = {1, 2, 3, 4, 5};
+        int[] numbers = {1, 2, 3, 4, 5};
 
         System.out.println("Массив: " + Arrays.toString(numbers));
 
